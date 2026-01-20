@@ -2,9 +2,7 @@
 
 **Akrynix** is a modern technology company specializing in the development of scalable digital solutions.
 
-<p align="center">
-    <img src="./logo.png" width="500" height="300" alt="Akrynix Labs" />
-</p>
+![Akrynix Labs](./logo.png)
 
 We design, develop, and deploy high-quality **web applications**, **mobile apps**, and **cloud infrastructure** for businesses and startups, with a strong focus on reliability, performance, and long-term scalability.
 
